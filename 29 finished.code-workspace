@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "django_pj"
+		},
+		{
+			"path": "../Dev/btre_resources/btre_theme/dist"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Dev/btre_resources/btre_theme/dist"
+		}
+	],
+	"settings": {}
+}
