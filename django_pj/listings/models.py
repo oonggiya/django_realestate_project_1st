@@ -1,5 +1,5 @@
 from django.db import models
-From datetime import datetime
+from datetime import datetime
 from realtors.models import Realtor
 
 class Listing(models.Model):
